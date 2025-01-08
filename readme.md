@@ -63,49 +63,6 @@ The **Integrated Quantitative Trading System** is an advanced trading solution t
 
 ---
 
-#### **Setup Instructions**  
-
-1. **Clone the Repository**  
-   ```bash  
-   git clone https://github.com/your-repo/quantitative-trading-system.git  
-   cd quantitative-trading-system  
-   ```  
-
-2. **Install Dependencies**  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-
-3. **Set Up API Keys**  
-   - Create a `.env` file in the root directory and add your API keys:  
-     ```env  
-     ALPHA_VANTAGE_API_KEY=your_alpha_vantage_key  
-     TWITTER_API_KEY=your_twitter_key  
-     ```  
-
-4. **Run the Application**  
-   - Backtesting:  
-     ```bash  
-     python backtest.py  
-     ```  
-   - Sentiment Analysis:  
-     ```bash  
-     python sentiment_analysis.py  
-     ```  
-
-5. **Analyze Results**  
-   - Access performance visualizations and metrics in the `results/` folder.  
-
----
-
-#### **Future Enhancements**  
-
-- Real-time trade execution using APIs (e.g., Alpaca, Interactive Brokers).  
-- Integration of reinforcement learning to dynamically adapt strategies.  
-- Expansion of macroeconomic modeling with additional factors like inflation and unemployment rates.  
-
----
-
 #### **Contributors**  
 
 **Adelard Dcunha**  
