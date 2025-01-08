@@ -48,21 +48,6 @@ The **Integrated Quantitative Trading System** is an advanced trading solution t
 
 ---
 
-#### **Technologies Used**  
-
-- **Programming Languages**: Python  
-- **Libraries and Tools**:  
-  - Technical Analysis: TA-Lib, pyti  
-  - Sentiment Analysis: NLTK, spaCy  
-  - Financial Modeling: QuantLib, statsmodels  
-  - Risk Analysis: NumPy, SciPy  
-  - Backtesting: Backtrader, Zipline  
-  - Visualization: Matplotlib, Plotly  
-- **APIs**: Alpha Vantage, Quandl, Twitter API  
-- **Database (Optional)**: SQLite/PostgreSQL  
-
----
-
 #### **Contributors**  
 
 **Adelard Dcunha**  
