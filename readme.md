@@ -10,6 +10,14 @@ The **Integrated Quantitative Trading System** is an advanced trading solution t
 #### **Key Features**  
 1. **Algorithmic Trading Strategy**  
    Automates trades using technical indicators (RSI, MACD) and integrates factor-based investing models for optimized decision-making.  
+   #### Calculating Features and Technical Indicators for each stock
+      1. **Garman Klass Volatility**: It shows how much the stock's price moves up and down, helping us understand its risk.  
+      2. **RSI (Relative Strength Index)**: It tells us if a stock is bought too much or sold too much, which can hint at price changes.  
+      3. **ROC (Rate of Change)**: It measures how fast the stock's price is changing, helping us see its momentum.  
+      4. **Bollinger Bands**: These bands show if a stock's price is high, low, or normal compared to its usual range.  
+      5. **ATR (Average True Range)**: It tells us how much a stock’s price moves in a day, showing its volatility.  
+      6. **MACD (Moving Average Convergence/Divergence)**: It helps spot when a stock's trend might start or end, like finding turning points.
+      7. **Dollar Volume** : It is used to measure the total trading activity of a particular stock, security, or market.
 
 2. **Sentiment-Driven Signal Generation**  
    Employs NLP to analyze financial news and social media sentiment, influencing short-term trading strategies and enhancing market prediction.  
