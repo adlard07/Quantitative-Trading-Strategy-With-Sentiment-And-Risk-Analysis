@@ -1,0 +1,8 @@
+yfinance
+pandas
+pandas-ta
+streamlit
+numpy
+fastapi
+pydantic
+uvicorn
